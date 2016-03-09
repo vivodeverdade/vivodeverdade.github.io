@@ -1,7 +1,0 @@
-- Verificar Metatag Description
-- Verificar Metatag Keywords
-- Verificar caminho vivodeverdade.ico
-- Verificar caminho dos links de menu e Veja todos os posts
-- Verificar caminho de todos os css e js
-- Verificar data do novo post
-- Criar nova entrada no XML do Feed para cada novo post
