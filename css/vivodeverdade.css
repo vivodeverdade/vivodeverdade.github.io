@@ -12,7 +12,7 @@ body {
 }
 
 .full {
-  background: url(http://sf.co.ua/15/12/wallpaper-fdf.jpg) no-repeat center center fixed;
+  background: url(http://www.magic4walls.com/wp-content/uploads/2013/11/Nature-Macro-Depth-Of-Field-Fresh-New-Hd-Wallpaper-.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -35,8 +35,6 @@ a:hover {
   color: #fff;
 }
 
-/* Opções de Fotos
-
-http://sf.co.ua/15/12/wallpaper-fdf.jpg
-
-*/
+p {
+font size="22";
+}
