@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -12,7 +6,7 @@ body {
 }
 
 .full {
-  background: url(http://www.magic4walls.com/wp-content/uploads/2013/11/Nature-Macro-Depth-Of-Field-Fresh-New-Hd-Wallpaper-.jpg) no-repeat center center fixed;
+  background: url(../images/image4.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,8 +17,11 @@ body {
 
 /* Opções de Fotos
 
-http://sf.co.ua/15/12/wallpaper-fdf.jpg
-http://www.magic4walls.com/wp-content/uploads/2013/11/Nature-Macro-Depth-Of-Field-Fresh-New-Hd-Wallpaper-.jpg
+../images/image4.jpg
+../images/image5.jpg
+../images/image6.jpg
+../images/image7.jpg
+../images/image9.jpg
 
 */
 
